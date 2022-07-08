@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Trading Tips - Stock, Breakout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chart_and_level"><![CDATA[Chart & Level]]></string>
+    <string name="indices">Indices</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="quotes">Quotes</string>
+    <string name="home">Home</string>
+    <string name="event">Event</string>
+    <string name="faq">FAQ</string>
+    <string name="info">Info</string>
+    <string name="news">News</string>
+    <string name="user">User</string>
+    <string name="favourite">Favourite</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="more">More</string>
+    <string name="about_us">About us</string>
+    <string name="bluechip_breakout">Bluechip Breakout</string>
+
+    <string name="calendar">Results</string>
+    <string name="notification">Notifications</string>
+    <string name="about1">This app is for educational purpose, all securities are subject to market risk, no investment is risk-free.</string>
+    <string name="about2">For any query and new feature request contact us on</string>
+    <string name="email">tradingtipsstocks@gmail.com</string>
+    <string name="google_ad_id">ca-app-pub-3984855056001704~6878072805</string>
+    <string name="pre_session">Pre Session</string>
+    <string name="economy">Economy</string>
+    <string name="insuarnce">Insurance</string>
+    <string name="mutual_funds">Mutual Fund</string>
+    <string name="ipo">IPO</string>
+    <string name="foreign_market">Foreign Market</string>
+    <string name="category">category</string>
+    <string name="category_name">categoryName</string>
+    <string name="blue_chip_breakout">Bluechip Breakout</string>
+    <string name="midcap_breakout">Midcap Breakout</string>
+    <string name="smallcap_breakout">Smallcap Breakout</string>
+    <string name="no_internet">No internet connection available, Please check your network connection!</string>
+    <string name="presession_not_found">PreSession Data Not Found</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="type_of_trading">Type of Trading :</string>
+    <string name="type_of_share">Type of Share :</string>
+    <string name="company_type">Company Type :</string>
+    <string name="stop_loss">Stop Loss :</string>
+    <string name="target">Target :</string>
+    <string name="symbol">Symbol :</string>
+    <string name="description">Description :</string>
+    <string name="published_on">Published on</string>
+    <string name="published_on_1">Published On :</string>
+
+
+</resources>

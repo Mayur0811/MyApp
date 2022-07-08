@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266078102178",
+    "project_id": "stock-hint-breakout",
+    "storage_bucket": "stock-hint-breakout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266078102178:android:f073bde60a7b00d2332dfb",
+        "android_client_info": {
+          "package_name": "com.tips.trading.stockbreakout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266078102178-1t9203u62tejp4pqdvthua9h9gep4cn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWjDeprOZH0ZlXwI1L5inAyvKmHazwFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266078102178-1t9203u62tejp4pqdvthua9h9gep4cn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

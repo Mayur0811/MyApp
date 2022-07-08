@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sparrow007:carouselrecyclerview:1.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d3aeba62266edb43d4c7c82fcd0b57c/transformed/jetified-carouselrecyclerview-1.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d3aeba62266edb43d4c7c82fcd0b57c/transformed/jetified-carouselrecyclerview-1.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d3aeba62266edb43d4c7c82fcd0b57c/transformed/jetified-carouselrecyclerview-1.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sparrow007/carouselrecyclerview/1.2.4/b4cd125208cf6467a7f3a1d5d73c99a91f19ded6/carouselrecyclerview-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
